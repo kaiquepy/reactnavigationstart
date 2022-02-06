@@ -11,6 +11,7 @@ export const Counter = styled.TouchableOpacity`
   background-color: purple;
   align-items: center;
   border-radius: 10px;
+  padding: 40px;
 `;
 
 export const Title = styled.Text`
