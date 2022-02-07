@@ -57,10 +57,10 @@ $ expo start
 
 ### Dependências de desenvolvimento
 
-- [Eslint](https://eslint.org/docs/user-guide/getting-started) - Linter
+- [Eslint](https://eslint.org/docs/user-guide/getting-started) - Linter and code style
 - [Prettier](https://prettier.io/) - Code Formatter
 - [Husky](https://github.com/typicode/husky) - Git Hooks
-- [Lint-staged](https://github.com/okonet/lint-staged) - Lint codes before commits
+- [Lint-staged](https://github.com/okonet/lint-staged) - Run linters on git staged files
 
 ## Autores
 
