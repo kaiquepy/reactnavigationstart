@@ -12,9 +12,6 @@ function Home() {
     <Container>
       <Counter onPress={increment}>
         <Title>{count}</Title>
-        <Title>{count}</Title>
-        <Title>{count}</Title>
-        <Title>{count}</Title>
       </Counter>
     </Container>
   );
