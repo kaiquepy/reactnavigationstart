@@ -74,6 +74,8 @@ $ expo start
 - [Prettier](https://prettier.io/) - Code Formatter
 - [Husky](https://github.com/typicode/husky) - Git Hooks
 - [Lint-staged](https://github.com/okonet/lint-staged) - Run linters on git staged files
+- [Commitlint](https://github.com/conventional-changelog/commitlint) - Lint commit messages
+- [Commitizen](https://github.com/commitizen/cz-cli) - Help to write commits
 
 ## Autores
 
