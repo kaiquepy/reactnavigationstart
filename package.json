@@ -8,14 +8,14 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git@github.com:kaiquepy/reactnavigationstart"
+    "url": "https://github.com/kaiquepy/reactnavigationstart"
   },
   "scripts": {
     "start": "expo start --dev-client",
     "android": "expo run:android",
     "ios": "expo run:ios",
     "web": "expo start --web",
-    "release": "semantic-release"
+    "release": "semantic-release --no-ci"
   },
   "dependencies": {
     "expo": "~44.0.2",
