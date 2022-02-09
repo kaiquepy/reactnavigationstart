@@ -1,13 +1,16 @@
 {
   "name": "reactnavigationstart",
   "version": "1.0.0",
+  "description": "Um teste de configuração dos pacotes e dependências de desenvolvimento.",
+  "author": "Kaique Vieira",
   "main": "index.js",
+  "license": "MIT",
+  "private": true,
   "scripts": {
     "start": "expo start --dev-client",
     "android": "expo run:android",
     "ios": "expo run:ios",
-    "web": "expo start --web",
-    "commit": "git-cz"
+    "web": "expo start --web"
   },
   "dependencies": {
     "expo": "~44.0.2",
@@ -43,6 +46,5 @@
   },
   "resolutions": {
     "styled-components": "^5"
-  },
-  "private": true
+  }
 }
