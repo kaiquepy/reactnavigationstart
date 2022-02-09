@@ -21,6 +21,8 @@
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
+    "@commitlint/cli": "^16.1.0",
+    "@commitlint/config-conventional": "^16.0.0",
     "commitizen": "^4.2.4",
     "commitizen-emoji": "^1.0.5",
     "cz-conventional-changelog": "3.3.0",
@@ -44,10 +46,5 @@
   "resolutions": {
     "styled-components": "^5"
   },
-  "private": true,
-  "config": {
-    "commitizen": {
-      "path": "./node_modules/commitizen-emoji"
-    }
-  }
+  "private": true
 }
