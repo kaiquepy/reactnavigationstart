@@ -1,6 +1,19 @@
-# :rocket: reactnavigationstart
+<h1 align="center" style="border-bottom: none;">:rocket: reactnavigationstart</h1>
+<h3 align="center">Criado para praticar</h3>
 
-![](https://img.shields.io/badge/kaiquepy-reactnavigationstart-orange) ![Licença do projeto](https://img.shields.io/github/license/kaiquepy/reactnavigationstart) ![](https://img.shields.io/badge/status-desenvolvimento-yellow)
+<p align="center">
+  <a href="https://github.com/kaiquepy/reactnavigationstart">
+    <img alt="Nome do projeto" src="https://img.shields.io/badge/kaiquepy-reactnavigationstart-orange">
+  </a>
+  <a href="https://github.com/kaiquepy/reactnavigationstart/blob/main/LICENSE ">
+    <img alt="Tipo de licença" src="https://img.shields.io/github/license/kaiquepy/reactnavigationstart">
+  </a>
+  <a>
+    <img alt="Status do projeto" src="https://img.shields.io/badge/status-desenvolvimento-yellow">
+  </a>
+</p>
+
+**reactnavigationstart** é um teste de configuração dos pacotes e dependências de desenvolvimento.
 
 > Projeto de programação criado com o intuito de praticar o desenvolvimento de aplicativos
 
@@ -61,6 +74,8 @@ $ expo start
 - [Prettier](https://prettier.io/) - Code Formatter
 - [Husky](https://github.com/typicode/husky) - Git Hooks
 - [Lint-staged](https://github.com/okonet/lint-staged) - Run linters on git staged files
+- [Commitizen](https://github.com/commitizen/cz-cli) - Help to write commits
+- [Commitizen-emoji](https://www.npmjs.com/package/commitizen-emoji) - Allows to use emojis in commits.
 
 ## Autores
 

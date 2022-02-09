@@ -1,0 +1,13 @@
+{
+  "path": "./node_modules/commitizen-emoji",
+  "config": {
+    "commitizenEmoji": {
+      "scopes": [
+        "mobile",
+        "web",
+        "server"
+      ],
+      "conventionalFormat": true
+    }
+  }
+}
