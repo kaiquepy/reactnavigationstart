@@ -1,0 +1,12 @@
+{
+  "config": {
+    "commitizenEmoji": {
+      "scopes": [
+        "mobile",
+        "web",
+        "server"
+      ],
+      "conventionalFormat": true
+    }
+  }
+}
