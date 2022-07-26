@@ -1,4 +1,4 @@
-<h1 align="center" style="border-bottom: none;">:seedling: reactnavigationstart</h1>
+<h1 align="center" style="border-bottom: none;">:rocket: reactnavigationstart</h1>
 <h3 align="center">Criado para praticar</h3>
 
 <p align="center">
